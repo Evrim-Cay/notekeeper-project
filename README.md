@@ -12,5 +12,6 @@ Notlar tarayıcının `localStorage` özelliği kullanılarak saklanır.
 - **Responsive Tasarım**: Mobil ve masaüstü cihazlar için uyumludur.
 - **Veri Kalıcılığı**: Notlar tarayıcının `localStorage` özelliği ile saklanır.
 
+![NoteKeeper-GoogleChrome2024-11-1513-44-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/622c32fe-176d-4e2d-960a-c64fe315664f)
 
-![NoteKeeper-GoogleChrome2024-11-1513-44-41-ezgif com-crop](https://github.com/user-attachments/assets/cf832f36-993e-4dcc-99f6-4a71212892f1)
+
